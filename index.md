@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my website!
+
+My name is Barbara Nyamunga. I am currently finding my footing within the tech industry. As per now, I am developing my skills in cloud computing, Excited to see where this journey takes me. I enjoy comoing up with solutions to problems. On this page, I share a few projects that I have undertaken.
 
 You can use the [editor on GitHub](https://github.com/BNyamunga/BNyamunga.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
